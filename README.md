@@ -107,3 +107,7 @@ https://public.tableau.com/app/profile/larson.st.cyr/viz/LivingArrangementsandWe
 * Building dashboards in Tableau to communicate data-driven insights
 * Applying analytical thinking to real-world questions
 
+## Conclusion
+
+Living at home may provide emotional support (higher happiness), but could also introduce environmental or social factors that increase stress and reduce sleep quality.
+
