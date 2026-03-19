@@ -40,6 +40,8 @@ How does living arrangement relate to:
 
 * Psychological wellbeing indicators
 * Lifestyle and health behaviors
+* Sleep patterns and disorders
+* Demographic and social variables
 
 ---
 
