@@ -89,6 +89,7 @@ An interactive dashboard was developed to visualize relationships between living
 
 <img width="1920" height="1020" alt="IntegratedWellbeingSurveyDashboard" src="https://github.com/user-attachments/assets/563f42ca-921a-496e-8110-f8aca54a668a" />
 
+
 <img width="1920" height="1020" alt="IntegratedWellbeingSurveySQL" src="https://github.com/user-attachments/assets/ecc917d6-fb0f-4cc8-9cd8-fbcdf77032bc" />
 
 
